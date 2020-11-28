@@ -1,7 +1,7 @@
-# Comments
+# 코멘트
 
-Any program requires comments, and Rust supports
-a few different varieties:
+모든 프로그램에는 코멘트가 필요합니다. 러스트에서 지원하는 코멘트들은 
+다음과 같습니다.
 
 * *Regular comments* which are ignored by the compiler:
    * `// Line comments which go to the end of the line.`

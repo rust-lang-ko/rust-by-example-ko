@@ -1,21 +1,20 @@
-# Rust by Example
+# Rust by Example 한글판
 
-[Rust][rust] is a modern systems programming language focusing on safety, speed,
-and concurrency. It accomplishes these goals by being memory safe without using 
-garbage collection.
+Rust는 안전성과 속도 그리고, 병렬 처리에 초점을 맞춘 최신 시스템 프로그래밍 언어
+입니다. 또한 메모리 안전성을 가비지 컬렉션 없이 지원합니다.
 
-Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust
-concepts and standard libraries. To get even more out of these examples, don't forget
-to [install Rust locally][install] and check out the [official docs][std]. 
-Additionally for the curious, you can also [check out the source code for this site][home].
+Rust by Example (RBE)는 Rust에서 실행할 수 있는 예제 모음으로, Rust의 여러가지 
+개념과 표준 라이브러리를 소개하고 있습니다. 이 예제를 잘 활용하기 위해서는 Rust를
+로컬에 [설치하고][install] [공식 문서][std]를 체크하시기 바랍니다. 관심있는 분은
+이 사이트의 [소스][home]도 보아주세요.
 
-Now let's begin!
+이제 시작할까요!
 
-- [Hello World](hello.md) - Start with a traditional Hello World program.
+- [Hello World](hello.md) - 전통적인 Hello World 프로그램부터 만들어봅시다.
 
-- [Primitives](primitives.md) - Learn about signed integers, unsigned integers and other primitives.
+- [기본 자료형](primitives.md) - 부호있는 정수형과 부호없는 정수형, 기타 기본 자료형들에 대해 배웁시다.
 
-- [Custom Types](custom_types.md) - `struct` and `enum`.
+- [Custom Types](custom_types.md) - `struct` 와 `enum`.
 
 - [Variable Bindings](variable_bindings.md) - mutable bindings, scope, shadowing.
 
@@ -63,4 +62,4 @@ Now let's begin!
 [rust]: https://www.rust-lang.org/
 [install]: https://www.rust-lang.org/tools/install
 [std]: https://doc.rust-lang.org/std/
-[home]: https://github.com/rust-lang/rust-by-example
+[home]: https://github.com/rust-lang-ko/rust-by-example-ko
