@@ -3,14 +3,14 @@
 [들어가며](index.md)
 
 - [Hello World](hello.md)
-    - [Comments](hello/comment.md)
+    - [코멘트](hello/comment.md)
     - [Formatted print](hello/print.md)
         - [Debug](hello/print/print_debug.md)
         - [Display](hello/print/print_display.md)
             - [Testcase: List](hello/print/print_display/testcase_list.md)
         - [Formatting](hello/print/fmt.md)
 
-- [Primitives](primitives.md)
+- [기본 자료형](primitives.md)
     - [Literals and operators](primitives/literals.md)
     - [Tuples](primitives/tuples.md)
     - [Arrays and Slices](primitives/array.md)
@@ -216,3 +216,4 @@
 - [Meta](meta.md)
     - [Documentation](meta/doc.md)
     - [Playpen](meta/playpen.md)
+
