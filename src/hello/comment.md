@@ -3,9 +3,9 @@
 모든 프로그램에는 코멘트가 필요합니다. 러스트에서 지원하는 코멘트들은 
 다음과 같습니다.
 
-* *Regular comments* which are ignored by the compiler:
-   * `// Line comments which go to the end of the line.`
-   * `/* Block comments which go to the closing delimiter. */`
+* *일반 코멘트* 는 컴파일러가 관여하지 않습니다.:
+   * `// 한 줄 코멘트는 해당 줄의 끝까지 무시됩니다.`
+   * `/* 블럭 코멘트는 종료 표시가 나올 때까지 무시됩니다. */`
 * *Doc comments* which are parsed into HTML library
   [documentation][docs]:
    * `/// Generate library docs for the following item.`
